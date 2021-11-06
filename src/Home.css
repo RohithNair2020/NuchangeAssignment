@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.banner-line-one {
+    margin-bottom: 30px;
+}
+
+.orange {
+    color: rgb(255, 107, 22);
+}
+
+.banner-img {
+    width: 100%;
+    z-index: -1;
+    mask-image: linear-gradient(40deg, transparent 51%, rgb(175, 175, 175) 70%);
+    margin-bottom: -725px;
+}
+
+.banner-text {
+    padding-left: 20px;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product-container {
+    flex-wrap: wrap;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}

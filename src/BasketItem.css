@@ -1,0 +1,27 @@
+.basket-item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.basket-image {
+    height: 180px;
+    width: 180px;
+    object-fit: contain;
+    align-self: center;
+}
+
+.bsk-amt-price {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bsk-product-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-left: solid 1px rgba(128, 128, 128, 0.555);
+    padding-left: 20px;
+    flex: 1;
+    margin-top: auto;
+    margin-left: 20px;
+    height: 170px;}
