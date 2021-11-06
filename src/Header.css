@@ -97,7 +97,7 @@ input {
     border: none;
     height: 34px;
     padding-left: 15px;
-    padding-right: 3px;
+    padding-right: 15px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     font-family: 'Prompt', sans-serif;
